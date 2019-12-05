@@ -1,2 +1,7 @@
 # neural_network_performance_guide_1
-Materials of RCC workshop 
+
+Materials for RCC workshop "Performance Guidelines of Neural Network Models, Part 2
+
+###Abstract
+
+###Objectives:
