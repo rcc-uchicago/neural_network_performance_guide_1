@@ -7,16 +7,11 @@ Neural networks are mathematical structures typically used to solve supervised c
 
 ### Objectives:
 During the workshop participants will be able to:
-
-*Understand model performance
-
-*Check for overfitting
-
-*Data dearth dealing
-
-*Hyperparameter tuning
-
-*Algorithm ensemble
+##### *Understand model performance
+##### *Check for overfitting
+##### *Data dearth dealing
+##### *Hyperparameter tuning
+##### *Algorithm ensemble
 
 ### Level: 
 Intermediate
